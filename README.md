@@ -1,4 +1,4 @@
-hello
+helloworld
 =====
 
 [![Image Layers](https://badge.imagelayers.io/prologic/hello:latest.svg)](https://imagelayers.io/?images=prologic/hello:latest)
@@ -8,7 +8,7 @@ Hello World!
 Usage
 -----
 
-    docker run -d -p 80:80 prologic/hello
+    docker run -d -p 80:80 prologic/helloworld
 
 > **note**
 >
